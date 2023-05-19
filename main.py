@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 import uvicorn
-import random
 import os
 import src.decryptia as decryptia
 
