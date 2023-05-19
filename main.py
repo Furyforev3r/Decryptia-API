@@ -104,4 +104,4 @@ async def mainV(action: str, text: str, key: str = "Decryptia"):
     return final_return
 
 
-uvicorn.run(app, port=3000, host="0.0.0.0")
+uvicorn.run(app, port = os.environ['PORT'], host = "0.0.0.0")
