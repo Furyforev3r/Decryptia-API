@@ -1,6 +1,6 @@
 # 🌐 | Decryptia-API
 + **Decryptia is a project whose goal is to work with cryptography of all kinds.**
-+ **The API is operating on: _ Not available._**
++ **The API is operating on: _Not available._**
 ## ❔ How does it work?
 + **The API operates on the "REST API" model, returning a JSON as an HTTP GET response.**
 ## 🖥️ How to use?
